@@ -1,42 +1,39 @@
-[
-    {
-        "id": 1,
-        "titulo": "Bruno Mars & Anderson",
-        "link": "https://www.youtube.com/watch?v=-nt_u4vo-DI"
-    },
-    {
-        "id": 2,
-        "titulo": "Jason Mraz - I'm Yours",
-        "link": "https://www.youtube.com/watch?v=EkHTsc9PU2A"
-    },
-    
-    {
-        "id": 3,
-        "titulo": "The Beatles - Don't Let Me Down",
-        "link": "https://www.youtube.com/watch?v=NCtzkaL2t_Y"
-    },
-    
-    {
-        "id": 4,
-        "titulo": "Nirvana - The Man Who Sold The World",
-        "link": "https://www.youtube.com/watch?v=fregObNcHC8"
-    },
-    
-    {
-        "id": 5,
-        "titulo": "Bon Jovi - Livin' On A Prayer",
-        "link": "https://www.youtube.com/watch?v=lDK9QqIzhwk"
-    },
-    
-    {
-        "id": 6,
-        "titulo": "Van Halen - Jump",
-        "link": "https://www.youtube.com/watch?v=SwYN7mTi6HM"
-    },
-    
-    {
-        "id": 7,
-        "titulo": "Queen - Another One Bites the Dust ",
-        "link": "https://www.youtube.com/watch?v=rY0WxgSXdEE"
-    }
-]
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Bruno Mars & Anderson",
+            "link": "https://www.youtube.com/watch?v=-nt_u4vo-DI"
+        },
+        {
+            "id": 2,
+            "titulo": "Jason Mraz - I'm Yours",
+            "link": "https://www.youtube.com/watch?v=EkHTsc9PU2A"
+        },
+        {
+            "id": 3,
+            "titulo": "The Beatles - Don't Let Me Down",
+            "link": "https://www.youtube.com/watch?v=NCtzkaL2t_Y"
+        },
+        {
+            "id": 4,
+            "titulo": "Nirvana - The Man Who Sold The World",
+            "link": "https://www.youtube.com/watch?v=fregObNcHC8"
+        },
+        {
+            "id": 5,
+            "titulo": "Bon Jovi - Livin' On A Prayer",
+            "link": "https://www.youtube.com/watch?v=lDK9QqIzhwk"
+        },
+        {
+            "id": 6,
+            "titulo": "Van Halen - Jump",
+            "link": "https://www.youtube.com/watch?v=SwYN7mTi6HM"
+        },
+        {
+            "id": 7,
+            "titulo": "Queen - Another One Bites the Dust ",
+            "link": "https://www.youtube.com/watch?v=rY0WxgSXdEE"
+        }
+    ]
+}
